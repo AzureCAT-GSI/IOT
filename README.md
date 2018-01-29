@@ -37,7 +37,7 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 * Understand IoT Hub capabilities such as device identity, security, device-to-cloud, cloud-to-device, and device management (ie: firmware update)
 * Understand how to perform analytics on ingested data and presentation (ie: dashboards, PowerBI, etc.)
 
-## Session Prerequisits
+## Session Prerequisites
 
 * None
 
